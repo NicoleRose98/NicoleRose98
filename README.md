@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 Hi There!
+--
+😄 Get to know me.
+--
+Hi, I am Nicole, a graduate from Sheffiled Hallam University where I studied Mathematics and where I was first introduced to coding.
 
-<!--
-**NicoleRose98/NicoleRose98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am now just starting my journey towards becoming Games Programmer as an intern at Sumo Digital LTD.
 
-Here are some ideas to get you started:
+I currently use C++ for all my projects, creating simple 2D games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 What am i currently Working On?
+--
+My next project i will be starting is a 2D platformer
+
+
+📫 How to reach me:
+--
+Email - nicoleroseperkins@gmail.com
+
+LinkedIn - https://www.linkedin.com/in/nicole-perkins-a52623201/
